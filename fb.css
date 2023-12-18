@@ -1,0 +1,76 @@
+.abc{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;;
+    width: 400px;
+    height: 290px;
+    transform: translate(900px,-100px);
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 5px;
+
+}
+input{
+    width: 350px;
+    height: 30px;
+    
+}
+.qwe{
+    background-color: hwb(0 100% 0% / 0.728);
+    width: 100%;
+    height: 600px;
+    
+}
+h1{
+    transform: translate(300px,180px);
+    font-size: 60px;
+    font-weight: bolder;
+
+}
+p{
+    transform: translate(300px,180px);
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+
+}
+.log{
+    border-radius: 20px;
+    width: 350px;
+    height: 55px;
+    background-color: rgb(61, 61, 222);
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    
+}
+
+.cre{
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: hsla(120, 75%, 70%, 0.779);
+    color: white;
+    
+}
+button:hover{
+    width: 270px;
+    
+    border: none;
+    
+}
+
+.fb{
+    color: blue;
+    font-family: 'Libre Baskerville', serif;
+}
+.fb2{
+    font-family: 'Young Serif', serif;
+}
+a:hover{
+    color: blue;
+}
+/* 
+width max content athayath content coreect varanj nammal use cheyyunnu 
+pinne nammal use cheyydath input[type="submit"] !important */ 
+/* border boxing */
